@@ -11,6 +11,8 @@ datasets/
 *.csv
 *.tsv
 *.json
+*.zip
+
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
